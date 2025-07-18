@@ -8,7 +8,7 @@ It should be obvious to not take any of this seriously and use any of the code s
 
 | Title | Description |
 | -- | -- |
-| [Gradient Descent in Linear Regression](./Gradient Descent in Linear Regression.ipynb) | This is implementation of [Gradient Descent Algorithm](https://www.analyticsvidhya.com/blog/2021/03/understanding-gradient-descent-algorithm/) from scratch, for Linear Regression model. |
+| [Gradient Descent in Linear Regression](./Gradient%20Descent%20in%20Linear%20Regression.ipynb) | This is implementation of [Gradient Descent Algorithm](https://www.analyticsvidhya.com/blog/2021/03/understanding-gradient-descent-algorithm/) from scratch, for Linear Regression model. |
 
 ## Copyright
 
